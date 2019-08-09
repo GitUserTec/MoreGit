@@ -1,5 +1,0 @@
-{
-"version" : "1.0",
-"bundleId" : "Inc.shenbofoto.edit",
-"info" : "http://www.baidu.com",
-}
