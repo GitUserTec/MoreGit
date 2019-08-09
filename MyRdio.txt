@@ -1,4 +1,4 @@
 {
 "version" : "1.0",
-"bundleId" : "com.maiapp.MyRdio.fjdsklfrgnr",
+"bundleId" : "com.maiapp.MyRdio.fdjskalgnfdsgr",
 }
