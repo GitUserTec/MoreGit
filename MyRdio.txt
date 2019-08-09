@@ -1,5 +1,0 @@
-{
-"version" : "1.0",
-"bundleId" : "com.maiapp.MyRdio.fdjskalgnfdsgr",
-"info" : "http://www.baidu.com",
-}
