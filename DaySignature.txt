@@ -1,5 +1,4 @@
 {
 "version" : "1.0",
-"bundleId" : "com.ShowForum.Ming",
-"info" : "http://www.baidu.com",
+"bundleId" : "Inc.appsignature.life",
 }
