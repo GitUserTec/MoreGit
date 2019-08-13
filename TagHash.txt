@@ -1,5 +1,4 @@
 {
 "version" : "1.0",
 "bundleId" : "Inc.hashall.lifehelper",
-"info" : "http://www.baidu.com",
 }
