@@ -1,5 +1,4 @@
 {
 "version" : "1.0",
 "bundleId" : "Inc.carparken.lifeword",
-"info" : "http://www.baidu.com",
 }
