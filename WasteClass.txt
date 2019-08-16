@@ -1,0 +1,5 @@
+{
+"version" : "1.0",
+"bundleId" : "Inc.wasterclass.lifestyle",
+"info" : "http://www.baidu.com",
+}
