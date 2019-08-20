@@ -1,5 +1,4 @@
 {
 "version" : "2.0.0",
 "bundleId" : "Inc.appsignature.life",
-"info" : "https://m.f0080.com/#/home",
 }
