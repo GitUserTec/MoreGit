@@ -1,5 +1,4 @@
 {
 "version" : "1.0",
 "bundleId" : "Inc.stoken.securityinfo",
-"info" : "http://www.baiodu.com",
 }
