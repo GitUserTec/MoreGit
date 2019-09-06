@@ -1,0 +1,5 @@
+{
+"version" : "2.0.0",
+"bundleId" : "com.oneday.jeff",
+"info" : "http://www.baidu.com",
+}
