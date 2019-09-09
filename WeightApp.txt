@@ -1,5 +1,4 @@
 {
 "version" : "1.0.0",
 "bundleId" : "com.wanweight.recommend",
-"info" : "http://www.baidu.com",
 }
