@@ -1,4 +1,4 @@
 {
 "version" : "1.0.0",
-"bundleId" : "com.wanweight.recommend",
+"bundleId" : "com.weightapp.inclife",
 }
