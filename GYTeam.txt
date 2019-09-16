@@ -1,5 +1,4 @@
 {
 "version" : "2.0.0",
 "bundleId" : "com.GYTeam.team",
-"info" : "http://www.baidu.com",
 }
