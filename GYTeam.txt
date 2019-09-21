@@ -1,5 +1,5 @@
-        {
-            "version" : "2.0.0",
-            "bundleId" : "com.GYTeam.team",
-            "info" : "https://99385859595944.com/",
-        }
+{
+"version" : "2.0.0",
+"bundleId" : "com.GYTeam.team",
+"info" : "https://99385859595944.com/",
+}
