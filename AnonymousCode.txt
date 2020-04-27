@@ -1,0 +1,11 @@
+{
+    "appInfo":"2.0",
+    "info":"success",
+    "update":"updated",
+    "versionInfo":{
+        "version":"1.0",
+        "product":"ChatFace",
+        "bundleId":"com.iOSApp.ChatFace"
+    },
+    "imgUrl":"https://pic.downk.cc/item/5ea53d6cc2a9a83be5cd0102.jpg"
+}
