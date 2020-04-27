@@ -4,8 +4,8 @@
     "update":"update",
     "versionInfo":{
         "version":"1.0",
-        "product":"ChatFace",
-        "bundleId":"com.iOSApp.ChatFace"
+        "product":"AnonymousCode",
+        "bundleId":"com.GameID.AnonymousCode"
     },
     "imgUrl":"https://pic.downk.cc/item/5ea53d6cc2a9a83be5cd0102.jpg"
 }
